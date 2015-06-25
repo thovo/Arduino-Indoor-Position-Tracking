@@ -10,19 +10,22 @@ In our project, we considered to use Xbee shield to communicate and do position 
 
 ## Project setup
 To perform the experiment, you need at least some devices below:
+
 1. 4 Arduino Uno boards: You can use another Arduino boards
 2. 4 Xbee shield
 3. 3 Ethernet shield
 4. 1 Hub/Switch (optional)
 
 **Web Server**
+
 We use XAMPP to simplify the process. You may need to at least install Apache server, PHP and mySQL on your web server computer.
 
 **Database Setup**
-User: root
-Password:
-Database: arduino
-Table: records(receiver_id, broadcaster_id, signal_strength, date_time)
+
+* User: root
+* Password:
+* Database: arduino
+* Table: records(receiver_id, broadcaster_id, signal_strength, date_time)
 
 The model of our project:
 ![alt text](https://raw.githubusercontent.com/thovo/Arduino-Indoor-Position-Tracking/master/images/model.png "Model")
