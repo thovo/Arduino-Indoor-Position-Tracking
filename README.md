@@ -32,6 +32,7 @@ The model of our project:
 
 ## Experiment and Results
 Due to the limitation of space and devices, we placed the 3 receivers in a small room of 4mx4m. We brought the broadcaster around the room and let the receivers sent the signal strength to the server. At the server, it would calculate the signal strength to distance and show us the position like this:
+
 ![alt text](https://raw.githubusercontent.com/thovo/Arduino-Indoor-Position-Tracking/master/images/intersection.png "Intersection")
 
 Actually, in reality, each Xbee shield provided different signal strength for the same distance, lead to hard to write a good equation for the relationship between distance and signal strength. We will try to cover it in the next update.
