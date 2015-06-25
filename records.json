@@ -1,0 +1,2198 @@
+[
+  {
+    "receiver_id": "3",
+    "broadcaster_id": "1",
+    "signal_strength": "34",
+    "date_time": "2015-06-18 17:13:05"
+  },
+  {
+    "receiver_id": "5",
+    "broadcaster_id": "1",
+    "signal_strength": "37",
+    "date_time": "2015-06-18 17:13:06"
+  },
+  {
+    "receiver_id": "1",
+    "broadcaster_id": "1",
+    "signal_strength": "37",
+    "date_time": "2015-06-18 17:13:09"
+  },
+  {
+    "receiver_id": "4",
+    "broadcaster_id": "1",
+    "signal_strength": "33",
+    "date_time": "2015-06-18 17:13:12"
+  },
+  {
+    "receiver_id": "5",
+    "broadcaster_id": "1",
+    "signal_strength": "32",
+    "date_time": "2015-06-18 17:13:20"
+  },
+  {
+    "receiver_id": "4",
+    "broadcaster_id": "1",
+    "signal_strength": "30",
+    "date_time": "2015-06-18 17:13:26"
+  },
+  {
+    "receiver_id": "3",
+    "broadcaster_id": "1",
+    "signal_strength": "37",
+    "date_time": "2015-06-18 17:13:31"
+  },
+  {
+    "receiver_id": "5",
+    "broadcaster_id": "1",
+    "signal_strength": "34",
+    "date_time": "2015-06-18 17:13:33"
+  },
+  {
+    "receiver_id": "4",
+    "broadcaster_id": "1",
+    "signal_strength": "30",
+    "date_time": "2015-06-18 17:13:39"
+  },
+  {
+    "receiver_id": "3",
+    "broadcaster_id": "1",
+    "signal_strength": "37",
+    "date_time": "2015-06-18 17:13:45"
+  },
+  {
+    "receiver_id": "5",
+    "broadcaster_id": "1",
+    "signal_strength": "34",
+    "date_time": "2015-06-18 17:13:47"
+  },
+  {
+    "receiver_id": "4",
+    "broadcaster_id": "1",
+    "signal_strength": "30",
+    "date_time": "2015-06-18 17:13:53"
+  },
+  {
+    "receiver_id": "3",
+    "broadcaster_id": "1",
+    "signal_strength": "37",
+    "date_time": "2015-06-18 17:13:58"
+  },
+  {
+    "receiver_id": "5",
+    "broadcaster_id": "1",
+    "signal_strength": "34",
+    "date_time": "2015-06-18 17:14:00"
+  },
+  {
+    "receiver_id": "4",
+    "broadcaster_id": "1",
+    "signal_strength": "30",
+    "date_time": "2015-06-18 17:14:06"
+  },
+  {
+    "receiver_id": "3",
+    "broadcaster_id": "1",
+    "signal_strength": "37",
+    "date_time": "2015-06-18 17:14:12"
+  },
+  {
+    "receiver_id": "5",
+    "broadcaster_id": "1",
+    "signal_strength": "34",
+    "date_time": "2015-06-18 17:14:14"
+  },
+  {
+    "receiver_id": "4",
+    "broadcaster_id": "1",
+    "signal_strength": "30",
+    "date_time": "2015-06-18 17:14:20"
+  },
+  {
+    "receiver_id": "3",
+    "broadcaster_id": "1",
+    "signal_strength": "37",
+    "date_time": "2015-06-18 17:14:25"
+  },
+  {
+    "receiver_id": "5",
+    "broadcaster_id": "1",
+    "signal_strength": "34",
+    "date_time": "2015-06-18 17:14:27"
+  },
+  {
+    "receiver_id": "4",
+    "broadcaster_id": "1",
+    "signal_strength": "30",
+    "date_time": "2015-06-18 17:14:33"
+  },
+  {
+    "receiver_id": "3",
+    "broadcaster_id": "1",
+    "signal_strength": "37",
+    "date_time": "2015-06-18 17:14:39"
+  },
+  {
+    "receiver_id": "5",
+    "broadcaster_id": "1",
+    "signal_strength": "34",
+    "date_time": "2015-06-18 17:14:41"
+  },
+  {
+    "receiver_id": "4",
+    "broadcaster_id": "1",
+    "signal_strength": "30",
+    "date_time": "2015-06-18 17:14:47"
+  },
+  {
+    "receiver_id": "3",
+    "broadcaster_id": "1",
+    "signal_strength": "37",
+    "date_time": "2015-06-18 17:14:52"
+  },
+  {
+    "receiver_id": "5",
+    "broadcaster_id": "1",
+    "signal_strength": "34",
+    "date_time": "2015-06-18 17:14:54"
+  },
+  {
+    "receiver_id": "4",
+    "broadcaster_id": "1",
+    "signal_strength": "30",
+    "date_time": "2015-06-18 17:15:00"
+  },
+  {
+    "receiver_id": "3",
+    "broadcaster_id": "1",
+    "signal_strength": "37",
+    "date_time": "2015-06-18 17:15:06"
+  },
+  {
+    "receiver_id": "5",
+    "broadcaster_id": "1",
+    "signal_strength": "33",
+    "date_time": "2015-06-18 17:15:08"
+  },
+  {
+    "receiver_id": "4",
+    "broadcaster_id": "1",
+    "signal_strength": "30",
+    "date_time": "2015-06-18 17:15:14"
+  },
+  {
+    "receiver_id": "3",
+    "broadcaster_id": "1",
+    "signal_strength": "37",
+    "date_time": "2015-06-18 17:15:19"
+  },
+  {
+    "receiver_id": "5",
+    "broadcaster_id": "1",
+    "signal_strength": "34",
+    "date_time": "2015-06-18 17:15:21"
+  },
+  {
+    "receiver_id": "1",
+    "broadcaster_id": "1",
+    "signal_strength": "46",
+    "date_time": "2015-06-18 17:15:24"
+  },
+  {
+    "receiver_id": "4",
+    "broadcaster_id": "1",
+    "signal_strength": "32",
+    "date_time": "2015-06-18 17:15:27"
+  },
+  {
+    "receiver_id": "3",
+    "broadcaster_id": "1",
+    "signal_strength": "35",
+    "date_time": "2015-06-18 17:15:33"
+  },
+  {
+    "receiver_id": "5",
+    "broadcaster_id": "1",
+    "signal_strength": "34",
+    "date_time": "2015-06-18 17:15:35"
+  },
+  {
+    "receiver_id": "4",
+    "broadcaster_id": "1",
+    "signal_strength": "36",
+    "date_time": "2015-06-18 17:15:41"
+  },
+  {
+    "receiver_id": "3",
+    "broadcaster_id": "1",
+    "signal_strength": "35",
+    "date_time": "2015-06-18 17:15:46"
+  },
+  {
+    "receiver_id": "5",
+    "broadcaster_id": "1",
+    "signal_strength": "33",
+    "date_time": "2015-06-18 17:15:48"
+  },
+  {
+    "receiver_id": "4",
+    "broadcaster_id": "1",
+    "signal_strength": "34",
+    "date_time": "2015-06-18 17:15:54"
+  },
+  {
+    "receiver_id": "3",
+    "broadcaster_id": "1",
+    "signal_strength": "38",
+    "date_time": "2015-06-18 17:16:00"
+  },
+  {
+    "receiver_id": "1",
+    "broadcaster_id": "1",
+    "signal_strength": "37",
+    "date_time": "2015-06-18 17:16:01"
+  },
+  {
+    "receiver_id": "5",
+    "broadcaster_id": "1",
+    "signal_strength": "37",
+    "date_time": "2015-06-18 17:16:02"
+  },
+  {
+    "receiver_id": "4",
+    "broadcaster_id": "1",
+    "signal_strength": "35",
+    "date_time": "2015-06-18 17:16:08"
+  },
+  {
+    "receiver_id": "3",
+    "broadcaster_id": "1",
+    "signal_strength": "35",
+    "date_time": "2015-06-18 17:16:13"
+  },
+  {
+    "receiver_id": "1",
+    "broadcaster_id": "1",
+    "signal_strength": "37",
+    "date_time": "2015-06-18 17:16:15"
+  },
+  {
+    "receiver_id": "5",
+    "broadcaster_id": "1",
+    "signal_strength": "34",
+    "date_time": "2015-06-18 17:16:15"
+  },
+  {
+    "receiver_id": "4",
+    "broadcaster_id": "1",
+    "signal_strength": "33",
+    "date_time": "2015-06-18 17:16:21"
+  },
+  {
+    "receiver_id": "3",
+    "broadcaster_id": "1",
+    "signal_strength": "33",
+    "date_time": "2015-06-18 17:16:27"
+  },
+  {
+    "receiver_id": "5",
+    "broadcaster_id": "1",
+    "signal_strength": "32",
+    "date_time": "2015-06-18 17:16:29"
+  },
+  {
+    "receiver_id": "4",
+    "broadcaster_id": "1",
+    "signal_strength": "34",
+    "date_time": "2015-06-18 17:16:35"
+  },
+  {
+    "receiver_id": "3",
+    "broadcaster_id": "1",
+    "signal_strength": "34",
+    "date_time": "2015-06-18 17:16:40"
+  },
+  {
+    "receiver_id": "5",
+    "broadcaster_id": "1",
+    "signal_strength": "32",
+    "date_time": "2015-06-18 17:16:43"
+  },
+  {
+    "receiver_id": "4",
+    "broadcaster_id": "1",
+    "signal_strength": "34",
+    "date_time": "2015-06-18 17:16:48"
+  },
+  {
+    "receiver_id": "3",
+    "broadcaster_id": "1",
+    "signal_strength": "34",
+    "date_time": "2015-06-18 17:16:54"
+  },
+  {
+    "receiver_id": "5",
+    "broadcaster_id": "1",
+    "signal_strength": "32",
+    "date_time": "2015-06-18 17:16:56"
+  },
+  {
+    "receiver_id": "4",
+    "broadcaster_id": "1",
+    "signal_strength": "32",
+    "date_time": "2015-06-18 17:17:02"
+  },
+  {
+    "receiver_id": "1",
+    "broadcaster_id": "1",
+    "signal_strength": "38",
+    "date_time": "2015-06-18 17:17:05"
+  },
+  {
+    "receiver_id": "3",
+    "broadcaster_id": "1",
+    "signal_strength": "33",
+    "date_time": "2015-06-18 17:17:07"
+  },
+  {
+    "receiver_id": "5",
+    "broadcaster_id": "1",
+    "signal_strength": "33",
+    "date_time": "2015-06-18 17:17:10"
+  },
+  {
+    "receiver_id": "4",
+    "broadcaster_id": "1",
+    "signal_strength": "34",
+    "date_time": "2015-06-18 17:17:15"
+  },
+  {
+    "receiver_id": "1",
+    "broadcaster_id": "1",
+    "signal_strength": "38",
+    "date_time": "2015-06-18 17:17:18"
+  },
+  {
+    "receiver_id": "3",
+    "broadcaster_id": "1",
+    "signal_strength": "35",
+    "date_time": "2015-06-18 17:17:21"
+  },
+  {
+    "receiver_id": "5",
+    "broadcaster_id": "1",
+    "signal_strength": "35",
+    "date_time": "2015-06-18 17:17:23"
+  },
+  {
+    "receiver_id": "4",
+    "broadcaster_id": "1",
+    "signal_strength": "34",
+    "date_time": "2015-06-18 17:17:29"
+  },
+  {
+    "receiver_id": "3",
+    "broadcaster_id": "1",
+    "signal_strength": "34",
+    "date_time": "2015-06-18 17:17:34"
+  },
+  {
+    "receiver_id": "5",
+    "broadcaster_id": "1",
+    "signal_strength": "33",
+    "date_time": "2015-06-18 17:17:37"
+  },
+  {
+    "receiver_id": "4",
+    "broadcaster_id": "1",
+    "signal_strength": "32",
+    "date_time": "2015-06-18 17:17:42"
+  },
+  {
+    "receiver_id": "3",
+    "broadcaster_id": "1",
+    "signal_strength": "32",
+    "date_time": "2015-06-18 17:17:48"
+  },
+  {
+    "receiver_id": "5",
+    "broadcaster_id": "1",
+    "signal_strength": "32",
+    "date_time": "2015-06-18 17:17:50"
+  },
+  {
+    "receiver_id": "4",
+    "broadcaster_id": "1",
+    "signal_strength": "32",
+    "date_time": "2015-06-18 17:17:56"
+  },
+  {
+    "receiver_id": "3",
+    "broadcaster_id": "1",
+    "signal_strength": "32",
+    "date_time": "2015-06-18 17:18:02"
+  },
+  {
+    "receiver_id": "5",
+    "broadcaster_id": "1",
+    "signal_strength": "33",
+    "date_time": "2015-06-18 17:18:04"
+  },
+  {
+    "receiver_id": "4",
+    "broadcaster_id": "1",
+    "signal_strength": "32",
+    "date_time": "2015-06-18 17:18:09"
+  },
+  {
+    "receiver_id": "3",
+    "broadcaster_id": "1",
+    "signal_strength": "32",
+    "date_time": "2015-06-18 17:18:15"
+  },
+  {
+    "receiver_id": "5",
+    "broadcaster_id": "1",
+    "signal_strength": "32",
+    "date_time": "2015-06-18 17:18:17"
+  },
+  {
+    "receiver_id": "4",
+    "broadcaster_id": "1",
+    "signal_strength": "32",
+    "date_time": "2015-06-18 17:18:23"
+  },
+  {
+    "receiver_id": "3",
+    "broadcaster_id": "1",
+    "signal_strength": "32",
+    "date_time": "2015-06-18 17:18:29"
+  },
+  {
+    "receiver_id": "5",
+    "broadcaster_id": "1",
+    "signal_strength": "33",
+    "date_time": "2015-06-18 17:18:31"
+  },
+  {
+    "receiver_id": "4",
+    "broadcaster_id": "1",
+    "signal_strength": "32",
+    "date_time": "2015-06-18 17:18:36"
+  },
+  {
+    "receiver_id": "3",
+    "broadcaster_id": "1",
+    "signal_strength": "32",
+    "date_time": "2015-06-18 17:18:42"
+  },
+  {
+    "receiver_id": "5",
+    "broadcaster_id": "1",
+    "signal_strength": "33",
+    "date_time": "2015-06-18 17:18:44"
+  },
+  {
+    "receiver_id": "4",
+    "broadcaster_id": "1",
+    "signal_strength": "33",
+    "date_time": "2015-06-18 17:18:50"
+  },
+  {
+    "receiver_id": "3",
+    "broadcaster_id": "1",
+    "signal_strength": "33",
+    "date_time": "2015-06-18 17:18:56"
+  },
+  {
+    "receiver_id": "5",
+    "broadcaster_id": "1",
+    "signal_strength": "35",
+    "date_time": "2015-06-18 17:18:58"
+  },
+  {
+    "receiver_id": "4",
+    "broadcaster_id": "1",
+    "signal_strength": "34",
+    "date_time": "2015-06-18 17:19:03"
+  },
+  {
+    "receiver_id": "3",
+    "broadcaster_id": "1",
+    "signal_strength": "39",
+    "date_time": "2015-06-18 17:19:09"
+  },
+  {
+    "receiver_id": "4",
+    "broadcaster_id": "1",
+    "signal_strength": "33",
+    "date_time": "2015-06-18 17:19:17"
+  },
+  {
+    "receiver_id": "1",
+    "broadcaster_id": "1",
+    "signal_strength": "40",
+    "date_time": "2015-06-18 17:19:21"
+  },
+  {
+    "receiver_id": "3",
+    "broadcaster_id": "1",
+    "signal_strength": "32",
+    "date_time": "2015-06-18 17:19:23"
+  },
+  {
+    "receiver_id": "5",
+    "broadcaster_id": "1",
+    "signal_strength": "38",
+    "date_time": "2015-06-18 17:19:23"
+  },
+  {
+    "receiver_id": "4",
+    "broadcaster_id": "1",
+    "signal_strength": "34",
+    "date_time": "2015-06-18 17:19:30"
+  },
+  {
+    "receiver_id": "1",
+    "broadcaster_id": "1",
+    "signal_strength": "38",
+    "date_time": "2015-06-18 17:19:34"
+  },
+  {
+    "receiver_id": "3",
+    "broadcaster_id": "1",
+    "signal_strength": "33",
+    "date_time": "2015-06-18 17:19:36"
+  },
+  {
+    "receiver_id": "5",
+    "broadcaster_id": "1",
+    "signal_strength": "33",
+    "date_time": "2015-06-18 17:19:37"
+  },
+  {
+    "receiver_id": "4",
+    "broadcaster_id": "1",
+    "signal_strength": "33",
+    "date_time": "2015-06-18 17:19:44"
+  },
+  {
+    "receiver_id": "3",
+    "broadcaster_id": "1",
+    "signal_strength": "35",
+    "date_time": "2015-06-18 17:19:50"
+  },
+  {
+    "receiver_id": "5",
+    "broadcaster_id": "1",
+    "signal_strength": "34",
+    "date_time": "2015-06-18 17:19:50"
+  },
+  {
+    "receiver_id": "4",
+    "broadcaster_id": "1",
+    "signal_strength": "33",
+    "date_time": "2015-06-18 17:19:57"
+  },
+  {
+    "receiver_id": "3",
+    "broadcaster_id": "1",
+    "signal_strength": "35",
+    "date_time": "2015-06-18 17:20:03"
+  },
+  {
+    "receiver_id": "5",
+    "broadcaster_id": "1",
+    "signal_strength": "34",
+    "date_time": "2015-06-18 17:20:04"
+  },
+  {
+    "receiver_id": "4",
+    "broadcaster_id": "1",
+    "signal_strength": "32",
+    "date_time": "2015-06-18 17:20:11"
+  },
+  {
+    "receiver_id": "3",
+    "broadcaster_id": "1",
+    "signal_strength": "35",
+    "date_time": "2015-06-18 17:20:17"
+  },
+  {
+    "receiver_id": "5",
+    "broadcaster_id": "1",
+    "signal_strength": "34",
+    "date_time": "2015-06-18 17:20:17"
+  },
+  {
+    "receiver_id": "4",
+    "broadcaster_id": "1",
+    "signal_strength": "35",
+    "date_time": "2015-06-18 17:20:24"
+  },
+  {
+    "receiver_id": "1",
+    "broadcaster_id": "1",
+    "signal_strength": "39",
+    "date_time": "2015-06-18 17:20:24"
+  },
+  {
+    "receiver_id": "3",
+    "broadcaster_id": "1",
+    "signal_strength": "33",
+    "date_time": "2015-06-18 17:20:30"
+  },
+  {
+    "receiver_id": "5",
+    "broadcaster_id": "1",
+    "signal_strength": "32",
+    "date_time": "2015-06-18 17:20:31"
+  },
+  {
+    "receiver_id": "4",
+    "broadcaster_id": "1",
+    "signal_strength": "35",
+    "date_time": "2015-06-18 17:20:38"
+  },
+  {
+    "receiver_id": "1",
+    "broadcaster_id": "1",
+    "signal_strength": "39",
+    "date_time": "2015-06-18 17:20:38"
+  },
+  {
+    "receiver_id": "3",
+    "broadcaster_id": "1",
+    "signal_strength": "33",
+    "date_time": "2015-06-18 17:20:44"
+  },
+  {
+    "receiver_id": "5",
+    "broadcaster_id": "1",
+    "signal_strength": "33",
+    "date_time": "2015-06-18 17:20:44"
+  },
+  {
+    "receiver_id": "4",
+    "broadcaster_id": "1",
+    "signal_strength": "33",
+    "date_time": "2015-06-18 17:20:51"
+  },
+  {
+    "receiver_id": "1",
+    "broadcaster_id": "1",
+    "signal_strength": "38",
+    "date_time": "2015-06-18 17:20:51"
+  },
+  {
+    "receiver_id": "3",
+    "broadcaster_id": "1",
+    "signal_strength": "32",
+    "date_time": "2015-06-18 17:20:57"
+  },
+  {
+    "receiver_id": "5",
+    "broadcaster_id": "1",
+    "signal_strength": "32",
+    "date_time": "2015-06-18 17:20:58"
+  },
+  {
+    "receiver_id": "4",
+    "broadcaster_id": "1",
+    "signal_strength": "34",
+    "date_time": "2015-06-18 17:21:05"
+  },
+  {
+    "receiver_id": "1",
+    "broadcaster_id": "1",
+    "signal_strength": "37",
+    "date_time": "2015-06-18 17:21:05"
+  },
+  {
+    "receiver_id": "3",
+    "broadcaster_id": "1",
+    "signal_strength": "32",
+    "date_time": "2015-06-18 17:21:11"
+  },
+  {
+    "receiver_id": "5",
+    "broadcaster_id": "1",
+    "signal_strength": "30",
+    "date_time": "2015-06-18 17:21:12"
+  },
+  {
+    "receiver_id": "4",
+    "broadcaster_id": "1",
+    "signal_strength": "35",
+    "date_time": "2015-06-18 17:21:18"
+  },
+  {
+    "receiver_id": "1",
+    "broadcaster_id": "1",
+    "signal_strength": "37",
+    "date_time": "2015-06-18 17:21:18"
+  },
+  {
+    "receiver_id": "3",
+    "broadcaster_id": "1",
+    "signal_strength": "32",
+    "date_time": "2015-06-18 17:21:24"
+  },
+  {
+    "receiver_id": "5",
+    "broadcaster_id": "1",
+    "signal_strength": "32",
+    "date_time": "2015-06-18 17:21:25"
+  },
+  {
+    "receiver_id": "4",
+    "broadcaster_id": "1",
+    "signal_strength": "36",
+    "date_time": "2015-06-18 17:21:32"
+  },
+  {
+    "receiver_id": "1",
+    "broadcaster_id": "1",
+    "signal_strength": "37",
+    "date_time": "2015-06-18 17:21:32"
+  },
+  {
+    "receiver_id": "3",
+    "broadcaster_id": "1",
+    "signal_strength": "32",
+    "date_time": "2015-06-18 17:21:38"
+  },
+  {
+    "receiver_id": "5",
+    "broadcaster_id": "1",
+    "signal_strength": "30",
+    "date_time": "2015-06-18 17:21:39"
+  },
+  {
+    "receiver_id": "4",
+    "broadcaster_id": "1",
+    "signal_strength": "36",
+    "date_time": "2015-06-18 17:21:43"
+  },
+  {
+    "receiver_id": "1",
+    "broadcaster_id": "1",
+    "signal_strength": "37",
+    "date_time": "2015-06-18 17:21:43"
+  },
+  {
+    "receiver_id": "3",
+    "broadcaster_id": "1",
+    "signal_strength": "32",
+    "date_time": "2015-06-18 17:21:49"
+  },
+  {
+    "receiver_id": "5",
+    "broadcaster_id": "1",
+    "signal_strength": "30",
+    "date_time": "2015-06-18 17:21:50"
+  },
+  {
+    "receiver_id": "4",
+    "broadcaster_id": "1",
+    "signal_strength": "36",
+    "date_time": "2015-06-18 17:21:54"
+  },
+  {
+    "receiver_id": "1",
+    "broadcaster_id": "1",
+    "signal_strength": "37",
+    "date_time": "2015-06-18 17:21:54"
+  },
+  {
+    "receiver_id": "3",
+    "broadcaster_id": "1",
+    "signal_strength": "32",
+    "date_time": "2015-06-18 17:22:00"
+  },
+  {
+    "receiver_id": "5",
+    "broadcaster_id": "1",
+    "signal_strength": "30",
+    "date_time": "2015-06-18 17:22:01"
+  },
+  {
+    "receiver_id": "4",
+    "broadcaster_id": "1",
+    "signal_strength": "36",
+    "date_time": "2015-06-18 17:22:05"
+  },
+  {
+    "receiver_id": "1",
+    "broadcaster_id": "1",
+    "signal_strength": "37",
+    "date_time": "2015-06-18 17:22:05"
+  },
+  {
+    "receiver_id": "3",
+    "broadcaster_id": "1",
+    "signal_strength": "32",
+    "date_time": "2015-06-18 17:22:11"
+  },
+  {
+    "receiver_id": "5",
+    "broadcaster_id": "1",
+    "signal_strength": "30",
+    "date_time": "2015-06-18 17:22:12"
+  },
+  {
+    "receiver_id": "4",
+    "broadcaster_id": "1",
+    "signal_strength": "36",
+    "date_time": "2015-06-18 17:22:16"
+  },
+  {
+    "receiver_id": "1",
+    "broadcaster_id": "1",
+    "signal_strength": "37",
+    "date_time": "2015-06-18 17:22:16"
+  },
+  {
+    "receiver_id": "3",
+    "broadcaster_id": "1",
+    "signal_strength": "32",
+    "date_time": "2015-06-18 17:22:22"
+  },
+  {
+    "receiver_id": "5",
+    "broadcaster_id": "1",
+    "signal_strength": "30",
+    "date_time": "2015-06-18 17:22:23"
+  },
+  {
+    "receiver_id": "4",
+    "broadcaster_id": "1",
+    "signal_strength": "36",
+    "date_time": "2015-06-18 17:22:27"
+  },
+  {
+    "receiver_id": "1",
+    "broadcaster_id": "1",
+    "signal_strength": "37",
+    "date_time": "2015-06-18 17:22:27"
+  },
+  {
+    "receiver_id": "3",
+    "broadcaster_id": "1",
+    "signal_strength": "32",
+    "date_time": "2015-06-18 17:22:33"
+  },
+  {
+    "receiver_id": "5",
+    "broadcaster_id": "1",
+    "signal_strength": "30",
+    "date_time": "2015-06-18 17:22:34"
+  },
+  {
+    "receiver_id": "4",
+    "broadcaster_id": "1",
+    "signal_strength": "36",
+    "date_time": "2015-06-18 17:22:38"
+  },
+  {
+    "receiver_id": "1",
+    "broadcaster_id": "1",
+    "signal_strength": "37",
+    "date_time": "2015-06-18 17:22:38"
+  },
+  {
+    "receiver_id": "3",
+    "broadcaster_id": "1",
+    "signal_strength": "32",
+    "date_time": "2015-06-18 17:22:44"
+  },
+  {
+    "receiver_id": "5",
+    "broadcaster_id": "1",
+    "signal_strength": "30",
+    "date_time": "2015-06-18 17:22:45"
+  },
+  {
+    "receiver_id": "4",
+    "broadcaster_id": "1",
+    "signal_strength": "36",
+    "date_time": "2015-06-18 17:22:49"
+  },
+  {
+    "receiver_id": "1",
+    "broadcaster_id": "1",
+    "signal_strength": "37",
+    "date_time": "2015-06-18 17:22:49"
+  },
+  {
+    "receiver_id": "3",
+    "broadcaster_id": "1",
+    "signal_strength": "32",
+    "date_time": "2015-06-18 17:22:55"
+  },
+  {
+    "receiver_id": "5",
+    "broadcaster_id": "1",
+    "signal_strength": "30",
+    "date_time": "2015-06-18 17:22:56"
+  },
+  {
+    "receiver_id": "4",
+    "broadcaster_id": "1",
+    "signal_strength": "36",
+    "date_time": "2015-06-18 17:23:00"
+  },
+  {
+    "receiver_id": "1",
+    "broadcaster_id": "1",
+    "signal_strength": "37",
+    "date_time": "2015-06-18 17:23:00"
+  },
+  {
+    "receiver_id": "3",
+    "broadcaster_id": "1",
+    "signal_strength": "32",
+    "date_time": "2015-06-18 17:23:06"
+  },
+  {
+    "receiver_id": "5",
+    "broadcaster_id": "1",
+    "signal_strength": "30",
+    "date_time": "2015-06-18 17:23:07"
+  },
+  {
+    "receiver_id": "4",
+    "broadcaster_id": "1",
+    "signal_strength": "36",
+    "date_time": "2015-06-18 17:23:11"
+  },
+  {
+    "receiver_id": "1",
+    "broadcaster_id": "1",
+    "signal_strength": "37",
+    "date_time": "2015-06-18 17:23:11"
+  },
+  {
+    "receiver_id": "3",
+    "broadcaster_id": "1",
+    "signal_strength": "32",
+    "date_time": "2015-06-18 17:23:17"
+  },
+  {
+    "receiver_id": "5",
+    "broadcaster_id": "1",
+    "signal_strength": "30",
+    "date_time": "2015-06-18 17:23:18"
+  },
+  {
+    "receiver_id": "4",
+    "broadcaster_id": "1",
+    "signal_strength": "36",
+    "date_time": "2015-06-18 17:23:22"
+  },
+  {
+    "receiver_id": "1",
+    "broadcaster_id": "1",
+    "signal_strength": "37",
+    "date_time": "2015-06-18 17:23:22"
+  },
+  {
+    "receiver_id": "3",
+    "broadcaster_id": "1",
+    "signal_strength": "32",
+    "date_time": "2015-06-18 17:23:28"
+  },
+  {
+    "receiver_id": "5",
+    "broadcaster_id": "1",
+    "signal_strength": "30",
+    "date_time": "2015-06-18 17:23:29"
+  },
+  {
+    "receiver_id": "4",
+    "broadcaster_id": "1",
+    "signal_strength": "36",
+    "date_time": "2015-06-18 17:23:33"
+  },
+  {
+    "receiver_id": "1",
+    "broadcaster_id": "1",
+    "signal_strength": "37",
+    "date_time": "2015-06-18 17:23:33"
+  },
+  {
+    "receiver_id": "3",
+    "broadcaster_id": "1",
+    "signal_strength": "32",
+    "date_time": "2015-06-18 17:23:39"
+  },
+  {
+    "receiver_id": "5",
+    "broadcaster_id": "1",
+    "signal_strength": "30",
+    "date_time": "2015-06-18 17:23:40"
+  },
+  {
+    "receiver_id": "4",
+    "broadcaster_id": "1",
+    "signal_strength": "36",
+    "date_time": "2015-06-18 17:23:44"
+  },
+  {
+    "receiver_id": "1",
+    "broadcaster_id": "1",
+    "signal_strength": "37",
+    "date_time": "2015-06-18 17:23:44"
+  },
+  {
+    "receiver_id": "3",
+    "broadcaster_id": "1",
+    "signal_strength": "32",
+    "date_time": "2015-06-18 17:23:50"
+  },
+  {
+    "receiver_id": "5",
+    "broadcaster_id": "1",
+    "signal_strength": "30",
+    "date_time": "2015-06-18 17:23:51"
+  },
+  {
+    "receiver_id": "4",
+    "broadcaster_id": "1",
+    "signal_strength": "36",
+    "date_time": "2015-06-18 17:23:55"
+  },
+  {
+    "receiver_id": "1",
+    "broadcaster_id": "1",
+    "signal_strength": "37",
+    "date_time": "2015-06-18 17:23:55"
+  },
+  {
+    "receiver_id": "3",
+    "broadcaster_id": "1",
+    "signal_strength": "32",
+    "date_time": "2015-06-18 17:24:01"
+  },
+  {
+    "receiver_id": "5",
+    "broadcaster_id": "1",
+    "signal_strength": "30",
+    "date_time": "2015-06-18 17:24:02"
+  },
+  {
+    "receiver_id": "4",
+    "broadcaster_id": "1",
+    "signal_strength": "36",
+    "date_time": "2015-06-18 17:24:06"
+  },
+  {
+    "receiver_id": "1",
+    "broadcaster_id": "1",
+    "signal_strength": "37",
+    "date_time": "2015-06-18 17:24:06"
+  },
+  {
+    "receiver_id": "3",
+    "broadcaster_id": "1",
+    "signal_strength": "32",
+    "date_time": "2015-06-18 17:24:12"
+  },
+  {
+    "receiver_id": "5",
+    "broadcaster_id": "1",
+    "signal_strength": "30",
+    "date_time": "2015-06-18 17:24:13"
+  },
+  {
+    "receiver_id": "4",
+    "broadcaster_id": "1",
+    "signal_strength": "36",
+    "date_time": "2015-06-18 17:24:17"
+  },
+  {
+    "receiver_id": "1",
+    "broadcaster_id": "1",
+    "signal_strength": "37",
+    "date_time": "2015-06-18 17:24:17"
+  },
+  {
+    "receiver_id": "3",
+    "broadcaster_id": "1",
+    "signal_strength": "32",
+    "date_time": "2015-06-18 17:24:23"
+  },
+  {
+    "receiver_id": "5",
+    "broadcaster_id": "1",
+    "signal_strength": "30",
+    "date_time": "2015-06-18 17:24:24"
+  },
+  {
+    "receiver_id": "4",
+    "broadcaster_id": "1",
+    "signal_strength": "36",
+    "date_time": "2015-06-18 17:24:28"
+  },
+  {
+    "receiver_id": "1",
+    "broadcaster_id": "1",
+    "signal_strength": "37",
+    "date_time": "2015-06-18 17:24:28"
+  },
+  {
+    "receiver_id": "3",
+    "broadcaster_id": "1",
+    "signal_strength": "32",
+    "date_time": "2015-06-18 17:24:34"
+  },
+  {
+    "receiver_id": "5",
+    "broadcaster_id": "1",
+    "signal_strength": "30",
+    "date_time": "2015-06-18 17:24:35"
+  },
+  {
+    "receiver_id": "4",
+    "broadcaster_id": "1",
+    "signal_strength": "36",
+    "date_time": "2015-06-18 17:24:39"
+  },
+  {
+    "receiver_id": "1",
+    "broadcaster_id": "1",
+    "signal_strength": "37",
+    "date_time": "2015-06-18 17:24:39"
+  },
+  {
+    "receiver_id": "3",
+    "broadcaster_id": "1",
+    "signal_strength": "32",
+    "date_time": "2015-06-18 17:24:45"
+  },
+  {
+    "receiver_id": "5",
+    "broadcaster_id": "1",
+    "signal_strength": "30",
+    "date_time": "2015-06-18 17:24:46"
+  },
+  {
+    "receiver_id": "4",
+    "broadcaster_id": "1",
+    "signal_strength": "36",
+    "date_time": "2015-06-18 17:24:50"
+  },
+  {
+    "receiver_id": "1",
+    "broadcaster_id": "1",
+    "signal_strength": "37",
+    "date_time": "2015-06-18 17:24:50"
+  },
+  {
+    "receiver_id": "3",
+    "broadcaster_id": "1",
+    "signal_strength": "32",
+    "date_time": "2015-06-18 17:24:56"
+  },
+  {
+    "receiver_id": "5",
+    "broadcaster_id": "1",
+    "signal_strength": "30",
+    "date_time": "2015-06-18 17:24:57"
+  },
+  {
+    "receiver_id": "4",
+    "broadcaster_id": "1",
+    "signal_strength": "36",
+    "date_time": "2015-06-18 17:25:01"
+  },
+  {
+    "receiver_id": "1",
+    "broadcaster_id": "1",
+    "signal_strength": "37",
+    "date_time": "2015-06-18 17:25:01"
+  },
+  {
+    "receiver_id": "3",
+    "broadcaster_id": "1",
+    "signal_strength": "32",
+    "date_time": "2015-06-18 17:25:07"
+  },
+  {
+    "receiver_id": "5",
+    "broadcaster_id": "1",
+    "signal_strength": "30",
+    "date_time": "2015-06-18 17:25:08"
+  },
+  {
+    "receiver_id": "4",
+    "broadcaster_id": "1",
+    "signal_strength": "36",
+    "date_time": "2015-06-18 17:25:12"
+  },
+  {
+    "receiver_id": "1",
+    "broadcaster_id": "1",
+    "signal_strength": "37",
+    "date_time": "2015-06-18 17:25:12"
+  },
+  {
+    "receiver_id": "3",
+    "broadcaster_id": "1",
+    "signal_strength": "32",
+    "date_time": "2015-06-18 17:25:18"
+  },
+  {
+    "receiver_id": "5",
+    "broadcaster_id": "1",
+    "signal_strength": "30",
+    "date_time": "2015-06-18 17:25:19"
+  },
+  {
+    "receiver_id": "4",
+    "broadcaster_id": "1",
+    "signal_strength": "36",
+    "date_time": "2015-06-18 17:25:23"
+  },
+  {
+    "receiver_id": "1",
+    "broadcaster_id": "1",
+    "signal_strength": "37",
+    "date_time": "2015-06-18 17:25:23"
+  },
+  {
+    "receiver_id": "3",
+    "broadcaster_id": "1",
+    "signal_strength": "32",
+    "date_time": "2015-06-18 17:25:29"
+  },
+  {
+    "receiver_id": "5",
+    "broadcaster_id": "1",
+    "signal_strength": "30",
+    "date_time": "2015-06-18 17:25:30"
+  },
+  {
+    "receiver_id": "4",
+    "broadcaster_id": "1",
+    "signal_strength": "36",
+    "date_time": "2015-06-18 17:25:34"
+  },
+  {
+    "receiver_id": "1",
+    "broadcaster_id": "1",
+    "signal_strength": "37",
+    "date_time": "2015-06-18 17:25:34"
+  },
+  {
+    "receiver_id": "3",
+    "broadcaster_id": "1",
+    "signal_strength": "32",
+    "date_time": "2015-06-18 17:25:40"
+  },
+  {
+    "receiver_id": "5",
+    "broadcaster_id": "1",
+    "signal_strength": "30",
+    "date_time": "2015-06-18 17:25:41"
+  },
+  {
+    "receiver_id": "4",
+    "broadcaster_id": "1",
+    "signal_strength": "36",
+    "date_time": "2015-06-18 17:25:45"
+  },
+  {
+    "receiver_id": "1",
+    "broadcaster_id": "1",
+    "signal_strength": "37",
+    "date_time": "2015-06-18 17:25:45"
+  },
+  {
+    "receiver_id": "3",
+    "broadcaster_id": "1",
+    "signal_strength": "32",
+    "date_time": "2015-06-18 17:25:51"
+  },
+  {
+    "receiver_id": "5",
+    "broadcaster_id": "1",
+    "signal_strength": "30",
+    "date_time": "2015-06-18 17:25:52"
+  },
+  {
+    "receiver_id": "4",
+    "broadcaster_id": "1",
+    "signal_strength": "36",
+    "date_time": "2015-06-18 17:25:56"
+  },
+  {
+    "receiver_id": "1",
+    "broadcaster_id": "1",
+    "signal_strength": "37",
+    "date_time": "2015-06-18 17:25:56"
+  },
+  {
+    "receiver_id": "3",
+    "broadcaster_id": "1",
+    "signal_strength": "32",
+    "date_time": "2015-06-18 17:26:02"
+  },
+  {
+    "receiver_id": "5",
+    "broadcaster_id": "1",
+    "signal_strength": "30",
+    "date_time": "2015-06-18 17:26:03"
+  },
+  {
+    "receiver_id": "4",
+    "broadcaster_id": "1",
+    "signal_strength": "36",
+    "date_time": "2015-06-18 17:26:07"
+  },
+  {
+    "receiver_id": "1",
+    "broadcaster_id": "1",
+    "signal_strength": "37",
+    "date_time": "2015-06-18 17:26:07"
+  },
+  {
+    "receiver_id": "3",
+    "broadcaster_id": "1",
+    "signal_strength": "32",
+    "date_time": "2015-06-18 17:26:13"
+  },
+  {
+    "receiver_id": "5",
+    "broadcaster_id": "1",
+    "signal_strength": "30",
+    "date_time": "2015-06-18 17:26:14"
+  },
+  {
+    "receiver_id": "4",
+    "broadcaster_id": "1",
+    "signal_strength": "36",
+    "date_time": "2015-06-18 17:26:18"
+  },
+  {
+    "receiver_id": "1",
+    "broadcaster_id": "1",
+    "signal_strength": "37",
+    "date_time": "2015-06-18 17:26:18"
+  },
+  {
+    "receiver_id": "3",
+    "broadcaster_id": "1",
+    "signal_strength": "32",
+    "date_time": "2015-06-18 17:26:24"
+  },
+  {
+    "receiver_id": "5",
+    "broadcaster_id": "1",
+    "signal_strength": "30",
+    "date_time": "2015-06-18 17:26:25"
+  },
+  {
+    "receiver_id": "4",
+    "broadcaster_id": "1",
+    "signal_strength": "36",
+    "date_time": "2015-06-18 17:26:29"
+  },
+  {
+    "receiver_id": "1",
+    "broadcaster_id": "1",
+    "signal_strength": "37",
+    "date_time": "2015-06-18 17:26:29"
+  },
+  {
+    "receiver_id": "3",
+    "broadcaster_id": "1",
+    "signal_strength": "32",
+    "date_time": "2015-06-18 17:26:35"
+  },
+  {
+    "receiver_id": "5",
+    "broadcaster_id": "1",
+    "signal_strength": "30",
+    "date_time": "2015-06-18 17:26:36"
+  },
+  {
+    "receiver_id": "4",
+    "broadcaster_id": "1",
+    "signal_strength": "36",
+    "date_time": "2015-06-18 17:26:40"
+  },
+  {
+    "receiver_id": "1",
+    "broadcaster_id": "1",
+    "signal_strength": "37",
+    "date_time": "2015-06-18 17:26:40"
+  },
+  {
+    "receiver_id": "3",
+    "broadcaster_id": "1",
+    "signal_strength": "32",
+    "date_time": "2015-06-18 17:26:46"
+  },
+  {
+    "receiver_id": "5",
+    "broadcaster_id": "1",
+    "signal_strength": "30",
+    "date_time": "2015-06-18 17:26:47"
+  },
+  {
+    "receiver_id": "4",
+    "broadcaster_id": "1",
+    "signal_strength": "36",
+    "date_time": "2015-06-18 17:26:51"
+  },
+  {
+    "receiver_id": "1",
+    "broadcaster_id": "1",
+    "signal_strength": "37",
+    "date_time": "2015-06-18 17:26:51"
+  },
+  {
+    "receiver_id": "3",
+    "broadcaster_id": "1",
+    "signal_strength": "32",
+    "date_time": "2015-06-18 17:26:58"
+  },
+  {
+    "receiver_id": "5",
+    "broadcaster_id": "1",
+    "signal_strength": "30",
+    "date_time": "2015-06-18 17:26:58"
+  },
+  {
+    "receiver_id": "4",
+    "broadcaster_id": "1",
+    "signal_strength": "36",
+    "date_time": "2015-06-18 17:27:02"
+  },
+  {
+    "receiver_id": "1",
+    "broadcaster_id": "1",
+    "signal_strength": "37",
+    "date_time": "2015-06-18 17:27:02"
+  },
+  {
+    "receiver_id": "3",
+    "broadcaster_id": "1",
+    "signal_strength": "32",
+    "date_time": "2015-06-18 17:27:09"
+  },
+  {
+    "receiver_id": "5",
+    "broadcaster_id": "1",
+    "signal_strength": "30",
+    "date_time": "2015-06-18 17:27:09"
+  },
+  {
+    "receiver_id": "4",
+    "broadcaster_id": "1",
+    "signal_strength": "36",
+    "date_time": "2015-06-18 17:27:13"
+  },
+  {
+    "receiver_id": "1",
+    "broadcaster_id": "1",
+    "signal_strength": "37",
+    "date_time": "2015-06-18 17:27:13"
+  },
+  {
+    "receiver_id": "3",
+    "broadcaster_id": "1",
+    "signal_strength": "32",
+    "date_time": "2015-06-18 17:27:20"
+  },
+  {
+    "receiver_id": "5",
+    "broadcaster_id": "1",
+    "signal_strength": "30",
+    "date_time": "2015-06-18 17:27:20"
+  },
+  {
+    "receiver_id": "4",
+    "broadcaster_id": "1",
+    "signal_strength": "36",
+    "date_time": "2015-06-18 17:27:24"
+  },
+  {
+    "receiver_id": "1",
+    "broadcaster_id": "1",
+    "signal_strength": "37",
+    "date_time": "2015-06-18 17:27:24"
+  },
+  {
+    "receiver_id": "3",
+    "broadcaster_id": "1",
+    "signal_strength": "32",
+    "date_time": "2015-06-18 17:27:31"
+  },
+  {
+    "receiver_id": "5",
+    "broadcaster_id": "1",
+    "signal_strength": "30",
+    "date_time": "2015-06-18 17:27:31"
+  },
+  {
+    "receiver_id": "4",
+    "broadcaster_id": "1",
+    "signal_strength": "36",
+    "date_time": "2015-06-18 17:27:35"
+  },
+  {
+    "receiver_id": "1",
+    "broadcaster_id": "1",
+    "signal_strength": "37",
+    "date_time": "2015-06-18 17:27:35"
+  },
+  {
+    "receiver_id": "3",
+    "broadcaster_id": "1",
+    "signal_strength": "32",
+    "date_time": "2015-06-18 17:27:42"
+  },
+  {
+    "receiver_id": "5",
+    "broadcaster_id": "1",
+    "signal_strength": "30",
+    "date_time": "2015-06-18 17:27:42"
+  },
+  {
+    "receiver_id": "4",
+    "broadcaster_id": "1",
+    "signal_strength": "36",
+    "date_time": "2015-06-18 17:27:46"
+  },
+  {
+    "receiver_id": "1",
+    "broadcaster_id": "1",
+    "signal_strength": "37",
+    "date_time": "2015-06-18 17:27:46"
+  },
+  {
+    "receiver_id": "3",
+    "broadcaster_id": "1",
+    "signal_strength": "32",
+    "date_time": "2015-06-18 17:27:53"
+  },
+  {
+    "receiver_id": "5",
+    "broadcaster_id": "1",
+    "signal_strength": "30",
+    "date_time": "2015-06-18 17:27:53"
+  },
+  {
+    "receiver_id": "4",
+    "broadcaster_id": "1",
+    "signal_strength": "36",
+    "date_time": "2015-06-18 17:27:57"
+  },
+  {
+    "receiver_id": "1",
+    "broadcaster_id": "1",
+    "signal_strength": "37",
+    "date_time": "2015-06-18 17:27:57"
+  },
+  {
+    "receiver_id": "3",
+    "broadcaster_id": "1",
+    "signal_strength": "32",
+    "date_time": "2015-06-18 17:28:04"
+  },
+  {
+    "receiver_id": "5",
+    "broadcaster_id": "1",
+    "signal_strength": "30",
+    "date_time": "2015-06-18 17:28:04"
+  },
+  {
+    "receiver_id": "4",
+    "broadcaster_id": "1",
+    "signal_strength": "36",
+    "date_time": "2015-06-18 17:28:08"
+  },
+  {
+    "receiver_id": "1",
+    "broadcaster_id": "1",
+    "signal_strength": "37",
+    "date_time": "2015-06-18 17:28:08"
+  },
+  {
+    "receiver_id": "3",
+    "broadcaster_id": "1",
+    "signal_strength": "32",
+    "date_time": "2015-06-18 17:28:15"
+  },
+  {
+    "receiver_id": "5",
+    "broadcaster_id": "1",
+    "signal_strength": "30",
+    "date_time": "2015-06-18 17:28:15"
+  },
+  {
+    "receiver_id": "4",
+    "broadcaster_id": "1",
+    "signal_strength": "36",
+    "date_time": "2015-06-18 17:28:19"
+  },
+  {
+    "receiver_id": "1",
+    "broadcaster_id": "1",
+    "signal_strength": "37",
+    "date_time": "2015-06-18 17:28:19"
+  },
+  {
+    "receiver_id": "3",
+    "broadcaster_id": "1",
+    "signal_strength": "32",
+    "date_time": "2015-06-18 17:28:26"
+  },
+  {
+    "receiver_id": "5",
+    "broadcaster_id": "1",
+    "signal_strength": "30",
+    "date_time": "2015-06-18 17:28:26"
+  },
+  {
+    "receiver_id": "4",
+    "broadcaster_id": "1",
+    "signal_strength": "36",
+    "date_time": "2015-06-18 17:28:30"
+  },
+  {
+    "receiver_id": "1",
+    "broadcaster_id": "1",
+    "signal_strength": "37",
+    "date_time": "2015-06-18 17:28:30"
+  },
+  {
+    "receiver_id": "3",
+    "broadcaster_id": "1",
+    "signal_strength": "32",
+    "date_time": "2015-06-18 17:28:37"
+  },
+  {
+    "receiver_id": "5",
+    "broadcaster_id": "1",
+    "signal_strength": "30",
+    "date_time": "2015-06-18 17:28:37"
+  },
+  {
+    "receiver_id": "4",
+    "broadcaster_id": "1",
+    "signal_strength": "36",
+    "date_time": "2015-06-18 17:28:41"
+  },
+  {
+    "receiver_id": "1",
+    "broadcaster_id": "1",
+    "signal_strength": "37",
+    "date_time": "2015-06-18 17:28:41"
+  },
+  {
+    "receiver_id": "3",
+    "broadcaster_id": "1",
+    "signal_strength": "32",
+    "date_time": "2015-06-18 17:28:48"
+  },
+  {
+    "receiver_id": "5",
+    "broadcaster_id": "1",
+    "signal_strength": "30",
+    "date_time": "2015-06-18 17:28:48"
+  },
+  {
+    "receiver_id": "4",
+    "broadcaster_id": "1",
+    "signal_strength": "36",
+    "date_time": "2015-06-18 17:28:52"
+  },
+  {
+    "receiver_id": "1",
+    "broadcaster_id": "1",
+    "signal_strength": "37",
+    "date_time": "2015-06-18 17:28:52"
+  },
+  {
+    "receiver_id": "3",
+    "broadcaster_id": "1",
+    "signal_strength": "32",
+    "date_time": "2015-06-18 17:28:59"
+  },
+  {
+    "receiver_id": "5",
+    "broadcaster_id": "1",
+    "signal_strength": "30",
+    "date_time": "2015-06-18 17:28:59"
+  },
+  {
+    "receiver_id": "4",
+    "broadcaster_id": "1",
+    "signal_strength": "36",
+    "date_time": "2015-06-18 17:29:03"
+  },
+  {
+    "receiver_id": "1",
+    "broadcaster_id": "1",
+    "signal_strength": "37",
+    "date_time": "2015-06-18 17:29:03"
+  },
+  {
+    "receiver_id": "3",
+    "broadcaster_id": "1",
+    "signal_strength": "32",
+    "date_time": "2015-06-18 17:29:10"
+  },
+  {
+    "receiver_id": "5",
+    "broadcaster_id": "1",
+    "signal_strength": "30",
+    "date_time": "2015-06-18 17:29:10"
+  },
+  {
+    "receiver_id": "4",
+    "broadcaster_id": "1",
+    "signal_strength": "36",
+    "date_time": "2015-06-18 17:29:14"
+  },
+  {
+    "receiver_id": "1",
+    "broadcaster_id": "1",
+    "signal_strength": "37",
+    "date_time": "2015-06-18 17:29:14"
+  },
+  {
+    "receiver_id": "3",
+    "broadcaster_id": "1",
+    "signal_strength": "32",
+    "date_time": "2015-06-18 17:29:21"
+  },
+  {
+    "receiver_id": "5",
+    "broadcaster_id": "1",
+    "signal_strength": "30",
+    "date_time": "2015-06-18 17:29:21"
+  },
+  {
+    "receiver_id": "4",
+    "broadcaster_id": "1",
+    "signal_strength": "36",
+    "date_time": "2015-06-18 17:29:25"
+  },
+  {
+    "receiver_id": "1",
+    "broadcaster_id": "1",
+    "signal_strength": "37",
+    "date_time": "2015-06-18 17:29:25"
+  },
+  {
+    "receiver_id": "3",
+    "broadcaster_id": "1",
+    "signal_strength": "32",
+    "date_time": "2015-06-18 17:29:32"
+  },
+  {
+    "receiver_id": "5",
+    "broadcaster_id": "1",
+    "signal_strength": "30",
+    "date_time": "2015-06-18 17:29:32"
+  },
+  {
+    "receiver_id": "4",
+    "broadcaster_id": "1",
+    "signal_strength": "36",
+    "date_time": "2015-06-18 17:29:36"
+  },
+  {
+    "receiver_id": "1",
+    "broadcaster_id": "1",
+    "signal_strength": "37",
+    "date_time": "2015-06-18 17:29:36"
+  },
+  {
+    "receiver_id": "3",
+    "broadcaster_id": "1",
+    "signal_strength": "32",
+    "date_time": "2015-06-18 17:29:43"
+  },
+  {
+    "receiver_id": "5",
+    "broadcaster_id": "1",
+    "signal_strength": "30",
+    "date_time": "2015-06-18 17:29:43"
+  },
+  {
+    "receiver_id": "4",
+    "broadcaster_id": "1",
+    "signal_strength": "36",
+    "date_time": "2015-06-18 17:29:47"
+  },
+  {
+    "receiver_id": "1",
+    "broadcaster_id": "1",
+    "signal_strength": "37",
+    "date_time": "2015-06-18 17:29:47"
+  },
+  {
+    "receiver_id": "3",
+    "broadcaster_id": "1",
+    "signal_strength": "32",
+    "date_time": "2015-06-18 17:29:54"
+  },
+  {
+    "receiver_id": "5",
+    "broadcaster_id": "1",
+    "signal_strength": "30",
+    "date_time": "2015-06-18 17:29:54"
+  },
+  {
+    "receiver_id": "4",
+    "broadcaster_id": "1",
+    "signal_strength": "36",
+    "date_time": "2015-06-18 17:29:58"
+  },
+  {
+    "receiver_id": "1",
+    "broadcaster_id": "1",
+    "signal_strength": "37",
+    "date_time": "2015-06-18 17:29:58"
+  },
+  {
+    "receiver_id": "3",
+    "broadcaster_id": "1",
+    "signal_strength": "32",
+    "date_time": "2015-06-18 17:30:05"
+  },
+  {
+    "receiver_id": "5",
+    "broadcaster_id": "1",
+    "signal_strength": "30",
+    "date_time": "2015-06-18 17:30:05"
+  },
+  {
+    "receiver_id": "4",
+    "broadcaster_id": "1",
+    "signal_strength": "36",
+    "date_time": "2015-06-18 17:30:09"
+  },
+  {
+    "receiver_id": "1",
+    "broadcaster_id": "1",
+    "signal_strength": "37",
+    "date_time": "2015-06-18 17:30:09"
+  },
+  {
+    "receiver_id": "3",
+    "broadcaster_id": "1",
+    "signal_strength": "32",
+    "date_time": "2015-06-18 17:30:16"
+  },
+  {
+    "receiver_id": "5",
+    "broadcaster_id": "1",
+    "signal_strength": "30",
+    "date_time": "2015-06-18 17:30:16"
+  },
+  {
+    "receiver_id": "4",
+    "broadcaster_id": "1",
+    "signal_strength": "36",
+    "date_time": "2015-06-18 17:30:20"
+  },
+  {
+    "receiver_id": "1",
+    "broadcaster_id": "1",
+    "signal_strength": "37",
+    "date_time": "2015-06-18 17:30:21"
+  },
+  {
+    "receiver_id": "3",
+    "broadcaster_id": "1",
+    "signal_strength": "32",
+    "date_time": "2015-06-18 17:30:27"
+  },
+  {
+    "receiver_id": "5",
+    "broadcaster_id": "1",
+    "signal_strength": "30",
+    "date_time": "2015-06-18 17:30:27"
+  },
+  {
+    "receiver_id": "4",
+    "broadcaster_id": "1",
+    "signal_strength": "36",
+    "date_time": "2015-06-18 17:30:31"
+  },
+  {
+    "receiver_id": "1",
+    "broadcaster_id": "1",
+    "signal_strength": "37",
+    "date_time": "2015-06-18 17:30:32"
+  },
+  {
+    "receiver_id": "3",
+    "broadcaster_id": "1",
+    "signal_strength": "32",
+    "date_time": "2015-06-18 17:30:38"
+  },
+  {
+    "receiver_id": "5",
+    "broadcaster_id": "1",
+    "signal_strength": "30",
+    "date_time": "2015-06-18 17:30:38"
+  },
+  {
+    "receiver_id": "4",
+    "broadcaster_id": "1",
+    "signal_strength": "36",
+    "date_time": "2015-06-18 17:30:42"
+  },
+  {
+    "receiver_id": "1",
+    "broadcaster_id": "1",
+    "signal_strength": "37",
+    "date_time": "2015-06-18 17:30:43"
+  },
+  {
+    "receiver_id": "3",
+    "broadcaster_id": "1",
+    "signal_strength": "32",
+    "date_time": "2015-06-18 17:30:49"
+  },
+  {
+    "receiver_id": "5",
+    "broadcaster_id": "1",
+    "signal_strength": "30",
+    "date_time": "2015-06-18 17:30:49"
+  },
+  {
+    "receiver_id": "4",
+    "broadcaster_id": "1",
+    "signal_strength": "36",
+    "date_time": "2015-06-18 17:30:53"
+  },
+  {
+    "receiver_id": "1",
+    "broadcaster_id": "1",
+    "signal_strength": "37",
+    "date_time": "2015-06-18 17:30:54"
+  },
+  {
+    "receiver_id": "3",
+    "broadcaster_id": "1",
+    "signal_strength": "32",
+    "date_time": "2015-06-18 17:31:00"
+  },
+  {
+    "receiver_id": "5",
+    "broadcaster_id": "1",
+    "signal_strength": "30",
+    "date_time": "2015-06-18 17:31:00"
+  },
+  {
+    "receiver_id": "4",
+    "broadcaster_id": "1",
+    "signal_strength": "36",
+    "date_time": "2015-06-18 17:31:04"
+  },
+  {
+    "receiver_id": "1",
+    "broadcaster_id": "1",
+    "signal_strength": "37",
+    "date_time": "2015-06-18 17:31:05"
+  },
+  {
+    "receiver_id": "3",
+    "broadcaster_id": "1",
+    "signal_strength": "32",
+    "date_time": "2015-06-18 17:31:11"
+  },
+  {
+    "receiver_id": "5",
+    "broadcaster_id": "1",
+    "signal_strength": "30",
+    "date_time": "2015-06-18 17:31:12"
+  },
+  {
+    "receiver_id": "4",
+    "broadcaster_id": "1",
+    "signal_strength": "36",
+    "date_time": "2015-06-18 17:31:15"
+  },
+  {
+    "receiver_id": "1",
+    "broadcaster_id": "1",
+    "signal_strength": "37",
+    "date_time": "2015-06-18 17:31:16"
+  },
+  {
+    "receiver_id": "3",
+    "broadcaster_id": "1",
+    "signal_strength": "32",
+    "date_time": "2015-06-18 17:31:22"
+  },
+  {
+    "receiver_id": "5",
+    "broadcaster_id": "1",
+    "signal_strength": "30",
+    "date_time": "2015-06-18 17:31:23"
+  },
+  {
+    "receiver_id": "4",
+    "broadcaster_id": "1",
+    "signal_strength": "36",
+    "date_time": "2015-06-18 17:31:26"
+  },
+  {
+    "receiver_id": "1",
+    "broadcaster_id": "1",
+    "signal_strength": "37",
+    "date_time": "2015-06-18 17:31:27"
+  },
+  {
+    "receiver_id": "3",
+    "broadcaster_id": "1",
+    "signal_strength": "32",
+    "date_time": "2015-06-18 17:31:33"
+  },
+  {
+    "receiver_id": "5",
+    "broadcaster_id": "1",
+    "signal_strength": "30",
+    "date_time": "2015-06-18 17:31:34"
+  },
+  {
+    "receiver_id": "4",
+    "broadcaster_id": "1",
+    "signal_strength": "36",
+    "date_time": "2015-06-18 17:31:37"
+  },
+  {
+    "receiver_id": "1",
+    "broadcaster_id": "1",
+    "signal_strength": "37",
+    "date_time": "2015-06-18 17:31:38"
+  },
+  {
+    "receiver_id": "3",
+    "broadcaster_id": "1",
+    "signal_strength": "32",
+    "date_time": "2015-06-18 17:31:44"
+  },
+  {
+    "receiver_id": "5",
+    "broadcaster_id": "1",
+    "signal_strength": "30",
+    "date_time": "2015-06-18 17:31:45"
+  },
+  {
+    "receiver_id": "4",
+    "broadcaster_id": "1",
+    "signal_strength": "36",
+    "date_time": "2015-06-18 17:31:48"
+  },
+  {
+    "receiver_id": "1",
+    "broadcaster_id": "1",
+    "signal_strength": "37",
+    "date_time": "2015-06-18 17:31:49"
+  },
+  {
+    "receiver_id": "3",
+    "broadcaster_id": "1",
+    "signal_strength": "32",
+    "date_time": "2015-06-18 17:31:55"
+  },
+  {
+    "receiver_id": "5",
+    "broadcaster_id": "1",
+    "signal_strength": "30",
+    "date_time": "2015-06-18 17:31:56"
+  },
+  {
+    "receiver_id": "4",
+    "broadcaster_id": "1",
+    "signal_strength": "36",
+    "date_time": "2015-06-18 17:31:59"
+  },
+  {
+    "receiver_id": "1",
+    "broadcaster_id": "1",
+    "signal_strength": "37",
+    "date_time": "2015-06-18 17:32:00"
+  },
+  {
+    "receiver_id": "3",
+    "broadcaster_id": "1",
+    "signal_strength": "32",
+    "date_time": "2015-06-18 17:32:06"
+  },
+  {
+    "receiver_id": "5",
+    "broadcaster_id": "1",
+    "signal_strength": "30",
+    "date_time": "2015-06-18 17:32:07"
+  },
+  {
+    "receiver_id": "4",
+    "broadcaster_id": "1",
+    "signal_strength": "36",
+    "date_time": "2015-06-18 17:32:10"
+  },
+  {
+    "receiver_id": "1",
+    "broadcaster_id": "1",
+    "signal_strength": "37",
+    "date_time": "2015-06-18 17:32:11"
+  },
+  {
+    "receiver_id": "3",
+    "broadcaster_id": "1",
+    "signal_strength": "32",
+    "date_time": "2015-06-18 17:32:17"
+  },
+  {
+    "receiver_id": "5",
+    "broadcaster_id": "1",
+    "signal_strength": "30",
+    "date_time": "2015-06-18 17:32:18"
+  },
+  {
+    "receiver_id": "4",
+    "broadcaster_id": "1",
+    "signal_strength": "36",
+    "date_time": "2015-06-18 17:32:21"
+  },
+  {
+    "receiver_id": "1",
+    "broadcaster_id": "1",
+    "signal_strength": "37",
+    "date_time": "2015-06-18 17:32:22"
+  },
+  {
+    "receiver_id": "3",
+    "broadcaster_id": "1",
+    "signal_strength": "32",
+    "date_time": "2015-06-18 17:32:28"
+  },
+  {
+    "receiver_id": "5",
+    "broadcaster_id": "1",
+    "signal_strength": "30",
+    "date_time": "2015-06-18 17:32:29"
+  },
+  {
+    "receiver_id": "4",
+    "broadcaster_id": "1",
+    "signal_strength": "36",
+    "date_time": "2015-06-18 17:32:32"
+  },
+  {
+    "receiver_id": "1",
+    "broadcaster_id": "1",
+    "signal_strength": "37",
+    "date_time": "2015-06-18 17:32:33"
+  }
+]
